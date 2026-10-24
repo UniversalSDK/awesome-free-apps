@@ -356,6 +356,7 @@
 
 ## Health and Wellness
 
+- [NadY](https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035) - AI-powered photo calorie counter & macro tracker with Bento UI, intermittent fasting timer, and Apple Health auto-sync. 🍎 [🟢](https://github.com/UniversalSDK/FoodVisionAI-iOS)
 - [Trider](https://play.google.com/store/apps/details?id=dev.trider.app) - AI habit tracker with journal, mood tracking, Pomodoro timer, and accountability squads. Free, no ads. 🤖
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
 - [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
